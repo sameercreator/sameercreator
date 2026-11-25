@@ -1,6 +1,8 @@
-# 💫 About Me:
-I'm student
+# 💫 My Developer journey :
+Hello there!
+i am engineering student exploring tech environment 
 
+## About me:
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerhebasur192@gmail.com) 
